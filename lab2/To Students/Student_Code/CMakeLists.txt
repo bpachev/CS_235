@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-project(lab1)
-set(SRC_FILES Factory.cpp LinkedList.cpp lab2.cpp Node.h LinkedListInterface.h LinkedList.h Factory.h)
-add_definitions(-DMAIN)
-add_executable(lab1 ${SRC_FILES})

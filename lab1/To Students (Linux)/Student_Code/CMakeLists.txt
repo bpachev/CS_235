@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-project(lab1)
-set(SRC_FILES Factory.cpp Arena.cpp lab1.cpp fighter.cpp Arena.h ArenaInterface.h FighterInterface.h Factory.h)
-add_definitions(-DMAIN)
-add_executable(lab1 ${SRC_FILES})
