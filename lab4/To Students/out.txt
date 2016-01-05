@@ -1,0 +1,40 @@
+[1m[34mExtra credit detected; enabling IRDeque and ORDeque testing
+
+[0m[1m[34mPart 1: Testing Station...
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned deque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned irdeque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned ordeque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned deque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned deque top_right was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned irdeque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned irdeque top_right was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned ordeque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned deque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned irdeque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned ordeque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned deque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned deque top_right was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned irdeque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned irdeque top_right was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned ordeque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned deque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned irdeque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned ordeque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned deque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned deque top_right was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned irdeque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned irdeque top_right was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned ordeque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned deque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned irdeque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned ordeque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned deque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned deque top_right was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned irdeque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned irdeque top_right was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned ordeque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned deque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned irdeque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showSizeOfX]: Returned ordeque size was 4269808, should have been 0
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned deque top_left was 4269808, should have been -1
+[0m[1m[35m[Station.verifyStructure.showTopOfX]: Returned deque top_right was 4269808, should have been 
