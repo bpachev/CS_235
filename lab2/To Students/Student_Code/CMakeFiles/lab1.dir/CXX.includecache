@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/benjamin/cs_235/lab2/To Students/Student_Code/LinkedList.h
+LinkedListInterface.h
+/home/benjamin/cs_235/lab2/To Students/Student_Code/LinkedListInterface.h
+Node.h
+/home/benjamin/cs_235/lab2/To Students/Student_Code/Node.h
+string
+-
+exception
+-
+
+/home/benjamin/cs_235/lab2/To Students/Student_Code/LinkedListInterface.h
+string
+-
+
+/home/benjamin/cs_235/lab2/To Students/Student_Code/Node.h
+
+/home/benjamin/cs_235/lab2/To Students/Student_Code/lab2.cpp
+LinkedList.h
+/home/benjamin/cs_235/lab2/To Students/Student_Code/LinkedList.h
+iostream
+-
+stdio.h
+-
+

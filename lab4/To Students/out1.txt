@@ -1,0 +1,292 @@
+[1m[34mExtra credit detected; enabling IRDeque and ORDeque testing
+
+[0m[1m[34mPart 1: Testing Station...
+[0m[1m[36mPart 1 passed!
+[0m[1m[34mPart 1 Testing
+[0m[1m[36mTest 1 Passed
+[0m[1m[34mPart 2: Testing Stack...
+[0m[1m[35m[Stack.addToStation]: Duplicate ID added to the station, but should not be allowed
+[0m[1m[35m[Stack.verifyStructure.showCurrentCar]: Returned current car was 5, should have been -1
+[0m[1m[35m[Stack.addToStack]: Car added to stack, but there was no current car to add
+[0m[1m[35m[Stack.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Stack.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Stack.verifyStructure.showSizeOfX]: Returned stack size was 5, should have been 4
+[0m[1m[35m[Stack.verifyStructure.showSizeOfX]: Returned stack size was 4, should have been 3
+[0m[1m[35m[Stack.verifyStructure.showSizeOfX]: Returned stack size was 3, should have been 2
+[0m[1m[35m[Stack.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[31mPart 2 failed...
+[0m[1m[34mPart 2 Testing
+[0m[1m[36mTest 2 Passed
+[0m[1m[34mPart 3: Testing Queue...
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Queue.addToStation]: Duplicate ID added to the station, but should not be allowed
+[0m[1m[35m[Queue.verifyStructure.showCurrentCar]: Returned current car was 5, should have been -1
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Queue.addToQueue]: Car added to queue, but there was no current car to add
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned queue size was 5, should have been 4
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned queue size was 4, should have been 3
+[0m[1m[35m[Queue.verifyStructure.showTopOfX]: Returned queue top was 5, should have been 6
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned queue size was 3, should have been 2
+[0m[1m[35m[Queue.verifyStructure.showTopOfX]: Returned queue top was 6, should have been 7
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Queue.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Queue.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[31mPart 3 failed...
+[0m[1m[34mPart 3 Testing
+[0m[1m[36mTest 3 Passed
+[0m[1m[34mPart 4: Testing Deque...
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.addToStation]: Duplicate ID added to the station, but should not be allowed
+[0m[1m[35m[Deque.verifyStructure.showCurrentCar]: Returned current car was 8, should have been -1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.addToDequeLeft]: Car added to deque on the left, but there was no current car to add
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned deque size was 3, should have been 2
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned deque top_left was 8, should have been 3
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned deque size was 3, should have been 2
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned deque top_left was 8, should have been 3
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned deque size was 3, should have been 2
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned deque top_left was 8, should have been 3
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned deque size was 3, should have been 2
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned deque top_left was 8, should have been 3
+[0m[1m[35m[Deque.addToDequeLeft]: Three more cars should have been added to deque
+[0m[1m[35m[Deque.verifyStructure.showCurrentCar]: Returned current car was 9, should have been -1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned deque top_left was 6, should have been 9
+[0m[1m[35m[Deque.removeFromDequeLeft]: Car not removed from deque on the left, but should have been allowed
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned deque size was 5, should have been 4
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned deque size was 4, should have been 3
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned deque size was 3, should have been 2
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned deque top_right was 8, should have been 7
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showSizeOfX]: Returned deque size was 2, should have been 1
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[Deque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[31mPart 4 failed...
+[0m[1m[34mPart 4 Testing
+[0m[1m[36mTest 4 Passed
+[0m[1m[31m1+  STANDARD TESTS FAILED
+[0m[1m[34mExtra Credit Part 1: testing IRDeque...
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned deque size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[IRDeque.addToStation]: Duplicate ID added to the station, but should not be allowed
+[0m[1m[35m[IRDeque.verifyStructure.showCurrentCar]: Returned current car was 6, should have been -1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned deque size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[IRDeque.addToIRDequeLeft]: Car added to irdeque on the left, but there was no current car to add
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned deque size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 6, should have been 3
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned deque size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 6, should have been 3
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned deque size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 6, should have been 3
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned deque size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 5, should have been 4
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 5, should have been 3
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 4, should have been 2
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 6, should have been 7
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[IRDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[31mExtra Credit Part 1 failed...
+[0m[1m[34mExtra Credit Part 2: testing ORDeque...
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.addToStation]: Duplicate ID added to the station, but should not be allowed
+[0m[1m[35m[ORDeque.verifyStructure.showCurrentCar]: Returned current car was 9, should have been -1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.addToORDequeLeft]: Car added to ordeque on the left, but there was no current car to add
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned ordeque size was 3, should have been 2
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned ordeque top_left was 9, should have been 3
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned ordeque size was 3, should have been 2
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned ordeque top_left was 9, should have been 3
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned ordeque size was 3, should have been 2
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned ordeque top_left was 9, should have been 3
+[0m[1m[35m[ORDeque.addToORDequeLeft]: Three more cars should have been added to ordeque
+[0m[1m[35m[ORDeque.verifyStructure.showCurrentCar]: Returned current car was 13, should have been -1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned ordeque top_left was 12, should have been 13
+[0m[1m[35m[ORDeque.removeFromORDequeLeft]: Car not removed from ordeque on the left, but should have been allowed
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned ordeque size was 5, should have been 4
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned ordeque size was 4, should have been 3
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned ordeque size was 3, should have been 2
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned ordeque top_left was 9, should have been 3
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned ordeque size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned ordeque top_left was 3, should have been 4
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned stack size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned queue size was 2, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned irdeque size was 3, should have been 1
+[0m[1m[35m[ORDeque.verifyStructure.showSizeOfX]: Returned ordeque size was 1, should have been 0
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned queue top was 7, should have been 8
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_left was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned deque top_right was 7, should have been 6
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_left was 10, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned irdeque top_right was 7, should have been 9
+[0m[1m[35m[ORDeque.verifyStructure.showTopOfX]: Returned ordeque top_left was 4, should have been -1
+[0m[1m[31mExtra Credit Part 2 failed...
+[0m[1m[31m1+  EXTRA TESTS FAILED
+[0m[1m[34mTA: Please verify that the student used separate Stack, Queue, Deque, IRDeque, and ORDeque classes.
+[0mPress any key to exit...
